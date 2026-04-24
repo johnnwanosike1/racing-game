@@ -186,14 +186,6 @@ TurboStorm aims to deliver:
 * Realistic driving mechanics
 * Expandable architecture
 
-### Planned Features
-
-* Multiplayer mode
-* AI traffic system
-* Dynamic weather
-* Leaderboards
-
----
 
 ## 🤝 Contribution Guidelines
 
