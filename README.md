@@ -1,8 +1,8 @@
 # 🚗 TurboStorm
 
 TURBOSTORM is a 3D racing game with realistic environment features, where the player and AI are to complete a finish line within a specific time period. The game focuses on speed, and terrain understanding, maneuvering through complex curves that adds as a time limitation, giving the player the fun of knowing when to brake and make a turn. The prototype illustrates the core gameplay design system, including player-controlled physics-based driving and a waypoint navigation system, which guides the AI player to independently complete the race.
----
 
+---
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
 
