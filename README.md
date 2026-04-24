@@ -71,7 +71,7 @@ cd turbostorm
 1. Open the main scene:
 
    ```
-   Assets/Scenes/Main.unity
+   Assets/Scenes/SampleScene.unity
    ```
 
 2. Press **Play** in the Unity Editor
