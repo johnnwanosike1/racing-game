@@ -6,6 +6,9 @@ This repository excludes several large Unity asset packages due to GitHub size l
 
 ---
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 ## 📦 Missing Assets (Required Setup)
 
 The following Unity asset packs are **NOT included** in this repository and must be installed manually:
