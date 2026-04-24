@@ -1,9 +1,6 @@
 # 🚗 TurboStorm
 
-TurboStorm is a high-speed racing game built with Unity, focused on immersive environments, responsive vehicle physics, and modular gameplay systems.
-
-This repository excludes several large Unity asset packages due to GitHub size limitations. You must install them manually for the project to function correctly.
-
+TURBOSTORM is a 3D racing game with realistic environment features, where the player and AI are to complete a finish line within a specific time period. The game focuses on speed, and terrain understanding, maneuvering through complex curves that adds as a time limitation, giving the player the fun of knowing when to brake and make a turn. The prototype illustrates the core gameplay design system, including player-controlled physics-based driving and a waypoint navigation system, which guides the AI player to independently complete the race.
 ---
 
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
