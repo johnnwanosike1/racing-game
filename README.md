@@ -42,19 +42,6 @@ cd turbostorm
 
 ---
 
-### 2. Open in Unity
-
-* Open **Unity Hub**
-* Click **Add Project**
-* Select the cloned folder
-* Open using the Unity version specified in:
-
-  ```
-  ProjectSettings/ProjectVersion.txt
-  ```
-
----
-
 ### 3. Import Missing Assets
 
 #### Option A — Unity Asset Store
@@ -75,22 +62,6 @@ cd turbostorm
 
 ---
 
-### 4. Folder Structure (Recommended)
-
-Place assets in structured directories to avoid broken references:
-
-```
-Assets/
- ├── Environments/
- ├── Buildings/
- ├── Roads/
- ├── Vehicles/
- ├── Props/
- ├── Scenes/
- ├── Scripts/
-```
-
----
 
 ## ▶️ Running the Game
 
