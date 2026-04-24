@@ -54,18 +54,6 @@ cd turbostorm
 3. Search each asset by name
 4. Download and import
 
-#### Option B — Manual Import
-
-* Go to:
-
-  ```
-  Assets → Import Package → Custom Package
-  ```
-* Import each `.unitypackage`
-
----
-
-
 ## ▶️ Running the Game
 
 1. Open the main scene:
