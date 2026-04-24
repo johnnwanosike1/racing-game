@@ -96,18 +96,6 @@ cd turbostorm
 
 ---
 
-## 🔧 Vehicle Setup (Important)
-
-After importing the vehicle controller plugin:
-
-1. Locate vehicle prefab from the plugin
-
-2. Replace or assign it to:
-
-   ```
-   playerVehicle
-   ```
-
 3. Ensure:
 
    * Rigidbody is attached
